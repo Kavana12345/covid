@@ -7,7 +7,7 @@ def fun():
     return render_template("firstpage.html")
 
 @app.route('/second')
-def fun1:
+def fun1():
     return render_template("second.html")
 
 if __name__=="__main__":
